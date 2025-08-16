@@ -11,6 +11,6 @@ Content of 'Data visualization - Day2'
  
 ##  Files Included
 - `Day 2 - TS Housing.ipynb`: Main Jupyter notebook
-- `[Day 2 - TS Housing.ipynb'](https://youtu.be/BL2wQWmpILs): Thought process
+- `[Day 2 - TS Housing.ipynb'](https://youtu.be/EKPNH1-7qG8): Thought process
 - `2BHK Housing Scheme.csv` : Dataset
 - `README.md`: Project documentation
