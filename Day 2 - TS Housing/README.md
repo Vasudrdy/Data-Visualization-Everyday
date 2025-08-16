@@ -1,6 +1,5 @@
 
-# Project Title
-Content of 'Data visualization - Day2'
+# Content of 'Data visualization - Day2'
 
 
 
